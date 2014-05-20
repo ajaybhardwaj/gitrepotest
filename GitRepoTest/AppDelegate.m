@@ -17,6 +17,8 @@
     
     // Added second line of comment
     
+    // Added comment for 1 commit checkout
+    
     // Override point for customization after application launch.
     return YES;
 }
