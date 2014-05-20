@@ -16,6 +16,13 @@
 
 - (void)viewDidLoad
 {
+    
+    stringVariable = @"Ajay";
+    self.stringVariable = @"Ajay 2";
+    
+    NSLog(@"%@",stringVariable);
+    NSLog(@"%@",self.stringVariable);
+    
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }
