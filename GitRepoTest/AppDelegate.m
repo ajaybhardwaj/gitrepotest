@@ -21,6 +21,8 @@
     
     // Added comment for 2 commit checkout
     
+    // Added comment for 3 commit checkout
+    
     // Override point for customization after application launch.
     return YES;
 }
